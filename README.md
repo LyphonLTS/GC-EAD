@@ -1,7 +1,12 @@
 # GC-EAD
 Repositório para as atividades EAD.
 
-# v0.1.0
+# v1.0
 Craição do reposiório local na máquina.
 
 Concluído o primeiro tópico, Introdução, do documento.
+
+# v1.1
+Documentando o tópico 1.1 - Finalidade.
+
+Concluído o tópico Finalidade.
