@@ -10,3 +10,9 @@ Concluído o primeiro tópico, Introdução, do documento.
 Documentando o tópico 1.1 - Finalidade.
 
 Concluído o tópico Finalidade.
+
+# v1.2
+
+Documentando o tópico 1.2 - Escopo.
+
+Concluído o tópico Escopo.
