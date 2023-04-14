@@ -20,3 +20,8 @@ Concluído o tópico Escopo.
 Documentando o tópico 1.3 - Definições, Acrônimos e Abreviações.
 
 Concluído o tópio Definições, Acrônimos e Abreviações.
+
+# v1.4
+Documentando o tópico 1.4 - Referências
+
+Concluído o tópico Referências
