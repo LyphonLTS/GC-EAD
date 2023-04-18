@@ -31,17 +31,20 @@ Documentando o tópico 1.5 - Visão Geral.
 
 Concluído o tópico Visão Geral.
 
-# v1.6
+# v2.0
 Documentando o tópico 2 - Gerenciameto de Cofiguração de Software
 
 Cocluído o tópico Gerenciameto de Configuração de Software
 
-# v1.7
+# v2.1
 Documentando o tópico 2.1 - Ferramentas de Desenvolvimento
 
 Concluído o tópico Ferramentas de Desenvolvimento
 
-# v1.8
+# v2.2
 Documentando o tópico 2.2 - Configuração da Ferramenta de Controle de Versão
 
 Concluid o tópico Configuração da Ferramenta de Controle de Versão
+
+# v2.2.1
+Correção de gramática no arquivo MAT02
