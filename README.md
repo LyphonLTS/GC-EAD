@@ -40,3 +40,8 @@ Cocluído o tópico Gerenciameto de Configuração de Software
 Documentando o tópico 2.1 - Ferramentas de Desenvolvimento
 
 Concluído o tópico Ferramentas de Desenvolvimento
+
+# v1.8
+Documentando o tópico 2.2 - Configuração da Ferramenta de Controle de Versão
+
+Concluid o tópico Configuração da Ferramenta de Controle de Versão
