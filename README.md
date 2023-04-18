@@ -35,3 +35,8 @@ Concluído o tópico Visão Geral.
 Documentando o tópico 2 - Gerenciameto de Cofiguração de Software
 
 Cocluído o tópico Gerenciameto de Configuração de Software
+
+# v1.7
+Documentando o tópico 2.1 - Ferramentas de Desenvolvimento
+
+Concluído o tópico Ferramentas de Desenvolvimento
